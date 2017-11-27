@@ -1,2 +1,4 @@
 @echo off
-escript.exe bootstrap %*
+escript.exe bootstrap
+pause
+%*
